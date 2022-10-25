@@ -2,8 +2,8 @@ import * as React from 'react';
 
 function Information() {
     return (
-        <div className="Information">
-            <h1>This is the information page</h1>
+        <div className="Results">
+            <h1>Results page</h1>
         </div>
 
 

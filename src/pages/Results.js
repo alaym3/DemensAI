@@ -1,4 +1,5 @@
 import * as React from 'react';
+<<<<<<< HEAD
 import {
     BarChart,
     Bar,
@@ -60,11 +61,14 @@ const data = [
 ];
 
 
+=======
+>>>>>>> parent of 0a1c3a7 (Add chart examples)
 
 function Results() {
     return (
         <div className="Results">
                 <h1>Results page</h1>
+<<<<<<< HEAD
             <div>
                 Graph testing below.
             </div>
@@ -97,6 +101,8 @@ function Results() {
 
 
 
+=======
+>>>>>>> parent of 0a1c3a7 (Add chart examples)
         </div>
 
 
