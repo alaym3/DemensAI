@@ -19,6 +19,7 @@ function App() {
         </a>
         <h1>TESTING DEMENSAI</h1>
         <h2>It's me. Hi. I'm the problem, it's me.</h2>
+        <h2>karma is my bf</h2>
       </header>
       
     </div>
