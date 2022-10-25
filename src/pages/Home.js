@@ -9,9 +9,7 @@ function Home() {
                 <h1>DEMENSAI</h1>
             </header>
             <div className="recording">
-                <h3>This is the home screen</h3>
-                <h2>This is more text</h2>
-                <p>This is even more text</p>
+                <h1>This is the home screen</h1>
             </div>
             <div>
                 <Button variant="contained" >Record button example</Button>
