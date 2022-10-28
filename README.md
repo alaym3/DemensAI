@@ -1,7 +1,6 @@
 # DemensAI
 
-Website link
-[https://icy-ocean-035efcf03.2.azurestaticapps.net/](https://icy-ocean-035efcf03.2.azurestaticapps.net/)
+[Website link](https://icy-ocean-035efcf03.2.azurestaticapps.net/)
 
 [Figma link](https://www.figma.com/file/vwnbzHNpdL6KMXogirwRQS/Prototype?node-id=0%3A1)
 
