@@ -1,6 +1,6 @@
 # DemensAI
 
-## Importans links
+## Important links
 1. [Website link](https://icy-ocean-035efcf03.2.azurestaticapps.net/)
 2. [Figma link](https://www.figma.com/file/vwnbzHNpdL6KMXogirwRQS/Prototype?node-id=0%3A1)
 
