@@ -3,6 +3,8 @@
 Website link
 [https://icy-ocean-035efcf03.2.azurestaticapps.net/](https://icy-ocean-035efcf03.2.azurestaticapps.net/)
 
+[Figma link](https://www.figma.com/file/vwnbzHNpdL6KMXogirwRQS/Prototype?node-id=0%3A1)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
